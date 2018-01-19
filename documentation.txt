@@ -1,0 +1,33 @@
+#==========================Front_page===========================#
+
+	It will show my Enrollnumber and Name It will display
+	
+	on screen till 5 seconds and then it will destroy itself.
+
+#==========================Menu_Page============================#
+
+	Then a Menu page will be displayed and it is the main page
+
+	of the project and it will contain 6 pizzas and their name and images with descriptions.
+
+	By clicking the names of those pizzas a nwe window will appear with an entry and 3 check buttons 
+	in which in the entry you have to write the quantity of the pizzas and select the check buttons if you 
+	want to add any of those and click on the button add that will takes you back to the main menu or if 
+	you dont want to add simply click on the back button in that window only.
+	
+	Menu page will also contains some buttons :
+
+	Buttons :
+		
+		1. Quit button with logo_image -> it will destroy rhe menu page and quit thr project.
+		2. Special offer image_button with image -> It show the descriptions of the special offers on the pizza.
+		3. Italian Pizza image_button ->  a new window will appear which contain 3 pizzas and same you can add any of those 
+		   pizzas if you want to add.
+		4. Order button -> By clicking on this button will take your order and a new window will appear on the screen with your Bill.
+
+#===================================================================#
+	
+	Database :
+
+		In that Bill Enter the costomers name and click on the button Place order this will enter the entries 
+		into the database and show the entries in the IDLE screen. 
